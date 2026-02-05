@@ -24,7 +24,6 @@ I do the detective work: listen to how teams actually operate, find where things
 - Various automation templates and workflow tools (see pinned repos)
 
 ## Find Me
-- 📍 Victor, Idaho
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/lodgepole) | [LinkedIn](https://www.linkedin.com/in/mtnbikerken/)
 - 📧 Contact through [lodgepole.io](https://lodgepole.io)
 
